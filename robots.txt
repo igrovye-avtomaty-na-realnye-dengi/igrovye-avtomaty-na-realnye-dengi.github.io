@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: igrovye-avtomaty-na-realnye-dengi.github.io
+Sitemap: https://igrovye-avtomaty-na-realnye-dengi.github.io/sitemap.xml
